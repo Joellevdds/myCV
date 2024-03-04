@@ -6,15 +6,17 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	font-family: "Josefin Sans", sans-serif;
+	color: black;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #00A36C;
+	font-family: "Josefin Sans", sans-serif;
+	color: white;
+    background-color: black;
 }
 
 .resume-main {
@@ -22,7 +24,9 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	font-family: "Josefin Sans", sans-serif;
+	color: white;
+	background-color:#EC7D3C; 
 }
 
 /* Styles for lists in the document */
