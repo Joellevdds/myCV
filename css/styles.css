@@ -19,6 +19,13 @@ body {
     background-color: black;
 }
 
+.subtext {
+	font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
 .resume-main {
 	background-color: #fffefc;
 }
