@@ -26,6 +26,14 @@ body {
   font-style: normal;
 }
 
+.biography-section {
+	background-color: antiquewhite
+}
+
+.biography-professional {
+	background-color: rgba(162,159,159,0.4)
+}
+
 .resume-main {
 	background-color: #fffefc;
 }
