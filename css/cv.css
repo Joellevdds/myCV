@@ -19,7 +19,7 @@ body {
     background-color: black;
 }
 
-.subtext {
+.custom2 {
 	font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
@@ -30,7 +30,7 @@ body {
 	background-color: antiquewhite
 }
 
-.biography-professional {
+.custom {
 	background-color: rgba(162,159,159,0.4)
 }
 
